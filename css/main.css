@@ -222,3 +222,43 @@ header .badges .badge {
   box-shadow: 4px 12px 10px rgba(0,0,0,0.15);
   cursor: pointer;
 }
+
+/* VISUAL */
+.visual {
+  margin-top: 120px;
+  background-image: url("../images/visual_bg.jpg");
+  background-position: center;
+}
+
+.visual .inner {
+  height: 646px;
+  /* background-color: orange; */
+}
+
+.visual .title {
+  
+}
+.visual .title .btn {
+  
+}
+
+.visual .title .cup1.image {
+  
+}
+
+.visual .title .cup1.text {
+  
+}
+
+.visual .title .cup2.image {
+  
+}
+
+.visual .title .cup2.text {
+  
+}
+
+.visual .spoon {
+
+}
+
