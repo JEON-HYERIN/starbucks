@@ -129,6 +129,6 @@ spyEls.forEach(function (spyEl) {
     triggerHook: .8
     // 보여짐 여부를 감시할 요소를 지정
   })
-  .setClassToggle()
-  .addTo();
+  .setClassToggle(spyEl, 'show')
+  .addTo(new ScrollMagic.Controller());
 });
